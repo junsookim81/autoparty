@@ -1,1 +1,2 @@
 index.autoparty.txt
+color=black
